@@ -1,0 +1,12 @@
+a {
+  text-decoration: none;
+  color: black;
+  border-radius: 10px solid black;
+}
+
+div {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  background-color: aquamarine;
+}
