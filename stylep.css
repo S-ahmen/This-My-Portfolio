@@ -90,6 +90,7 @@ h1 {
   font-size: 3rem;
   font-weight: bold;
   color: white;
+  text-shadow: 0 0 10px white, 0 0 20px white, 0 0 30px white, 0 0 40px white;
   background: #d1f2eb;
   padding: 20px 40px;
   border-radius: 20px;
@@ -110,4 +111,9 @@ h1 {
   box-shadow: 0 4px 10px #45b39d;
   margin-right: 10px;
   border-radius: 5px;
+}
+
+.prfilimg {
+  padding-right: 50px;
+  border-radius: 700px 0 700px 0;
 }
